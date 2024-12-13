@@ -11,10 +11,10 @@ This folder contains artifacts related to *machine learning models* used in the 
 - *Input:*  
   The model accepts data with the following attributes:  
   - *Location:* Geographical location of tourist attractions.  
-  - Category:** Type of tourist attractions (e.g. nature, culture, entertainment, etc.).  
+  - *Category:* Type of tourist attractions (e.g. nature, culture, entertainment, etc.).  
   - *Tariff:* Entry fee or price to enjoy the attraction.  
-  - Experience:** The experience or activity offered (e.g. trekking, photography, etc.).  
-  - Rating:** Ratings from previous users.  
+  - *Experience:* The experience or activity offered (e.g. trekking, photography, etc.).  
+  - *Rating:* Ratings from previous users.  
 - *Utilization:*  
   Integrate this model into an application using the TensorFlow Lite interpreter to get predictions of tourist attractions that match user preferences.
 
